@@ -2,6 +2,8 @@
 
 一款**新手友好**的围棋学习对弈游戏：不会下棋也没关系，柯洁老师会手把手教你规则、在实战中给你支招。
 
+> 🕹 **在线试玩（GitHub Pages）**：https://maxwelllee.github.io/luozi-wuhui/
+
 ## 🚀 快速开始
 
 1. 双击 `index.html`（推荐 Chrome / Edge 浏览器），或双击 `Play.bat`
